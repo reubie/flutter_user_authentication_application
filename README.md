@@ -1,6 +1,6 @@
 # flutter_user_authentication_application
 
-A new Flutter project.
+A new Flutter project with Firebase Authenntication.
 
 ## Getting Started
 
